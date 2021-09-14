@@ -1,0 +1,4 @@
+TCorSTM,STM,,,,,,,,,,,
+MessageName,signalName,signalType,signalSize,,,,,,,,,
+SV_set,defaultAngleLeft,uint16,16,defaultAngleRight,uint16,16,Remain,uint32,32,,,
+SV_calc,leftAngle,uint16,16,rightAngle,uint16,16,Roll,uint16,16,heave,uint16,16
